@@ -1,4 +1,4 @@
 # terraform-with-azure test
 
 Download GIT 
-![Alt text](image.png)
+/images/![Alt text](image.png)
